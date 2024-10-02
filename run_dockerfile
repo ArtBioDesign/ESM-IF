@@ -1,0 +1,10 @@
+
+
+
+FROM esm-if:latest
+
+RUN chmod -R 777  /opt/inverse
+
+RUN chmod -R 777 /
+
+
